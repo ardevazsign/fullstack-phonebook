@@ -1,0 +1,8 @@
+.homePageContainer {
+  padding: 350px 0 350px 0;
+  font-size: 24px;
+  font-family: cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

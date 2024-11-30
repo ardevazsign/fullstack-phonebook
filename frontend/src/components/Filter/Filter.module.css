@@ -1,0 +1,41 @@
+.filterContainer {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 260px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 15px 100px;
+  background: gainsboro;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+.findName {
+  font-size: 20px;
+  font-weight: 700;
+}
+.filterInput {
+  width: 280px;
+  outline: none;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  padding: 10px 10px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.filterInput:hover {
+  outline: none;
+  font: 600;
+  font-size: 16px;
+  background: #f0ecec;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  padding: 10px 10px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
